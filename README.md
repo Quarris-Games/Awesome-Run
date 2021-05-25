@@ -11,7 +11,7 @@ You, as the player, need to help Walter get through the Awesome Inc. Web Bootcam
 
 [See more about the Awesome Inc. Web Developer Bootcamp](https://www.awesomeinc.org/bootcamp)
 
-![](./public/img/ainc-logo-horizontal-white-text.png)
+![](./img/ainc-logo-horizontal-white-text.png)
 
 ###### Disclaimer: This is not a sponsorship. We are just students that enjoy Awesome Inc., the people that work there, and video games!
 
